@@ -68,6 +68,8 @@ View results highlights in Tableau [Dashboard](https://public.tableau.com/app/pr
 
 
 ## Summary: 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
--There is a high-level summary of the results and two additional visualizations are suggested for future analysis
+The results of the analysis vizualized by the figures above give crucial insight regarding patterns amongst gender, time of day, day of the week, and length of bike trips in the usage of the bike-sharing program in NYC. The pie charts in figure 1 show most of the users are male and most are subscribed to the program. It is also very rare for people to use the bike for longer than 1 hour, in fact most males who checkout bikes use them for roughly 20 minutes or under. Bikes are most popular around 7-9 AM in the morning and 5-7 PM in the evening and they are especially popular on Thursdays. This trend also appears to exist regardless of gender, seeing as although the program is mostly used by those identifying as males, there is not much difference or variance in what times bikes are used between genders. Therefore the program in Des Moines should be implemented with focus on early mornings and late evenings which is most likely based on work commute hours as well. 
+
+Moving forward, another very important aspect to consider collection data on would be the number of bikes used based on the time of the year. We may be able to see a decreasing trend in months of the year where it may be colder outside. Similarily, it would also be very interesting to count the number of miles or the distance users travel in relation to factors such as age, gender, income, and occupation. Collecting more demographic data on the users of the program in general can help market the service towards the inteded audience. 
+
